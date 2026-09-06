@@ -118,7 +118,7 @@ header{
 }
 
 #category{
-  background:linear-gradient(to bottom,#ffffff,#faf7ff);
+  background:linear-gradient(to bottom,#faf7ff,#faf7ff);
   padding:50px; border-radius:25px; width:95%; margin:2rem auto;
 }
 
